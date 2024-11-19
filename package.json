@@ -11,7 +11,7 @@
     "react-scripts": "3.3.0",
     "react-loading-overlay": "^1.0.1",
     "react-router-dom": "^5.1.2",
-    "firebase": "^7.6.2",
+    "firebase": "^10.9.0",
     "formik": "^2.1.1",
     "reactstrap": "^8.2.0",
     "yup": "^0.28.0"
